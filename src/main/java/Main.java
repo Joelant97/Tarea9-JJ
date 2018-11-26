@@ -23,7 +23,7 @@ public class Main {
 
     private static void initSpark() {
         Configuration configuration = new Configuration(Configuration.VERSION_2_3_23);
-        configuration.setClassForTemplateLoading(Main.class, "/templates");
+        configuration.setClassForTemplateLoading(Main.class, "/plantillas");
         FreeMarkerEngine freeMarkerEngine = new FreeMarkerEngine(configuration);
 
         //Debug
