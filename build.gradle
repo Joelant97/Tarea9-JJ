@@ -2,8 +2,9 @@ plugins {
     id 'java'
 }
 
-group 'com.pucmm.edu'
+//group 'com.pucmm.edu'
 version '1.0-SNAPSHOT'
+apply plugin: 'java'
 
 sourceCompatibility = 1.8
 
@@ -13,4 +14,14 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile 'com.sparkjava:spark-core:2.5'   //Libreria Spark
+    compile 'com.sparkjava:spark-template-freemarker:2.3'
+    compile 'org.freemarker:freemarker:2.3.23'
+    compile 'com.sparkjava:spark-debug-tools:0.5'
+    compile 'com.google.code.gson:gson:2.6.2'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.6'
+    //Pantalla de Debug
+    compile 'com.sparkjava:spark-debug-tools:0.5'
+    compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.21'
 }
