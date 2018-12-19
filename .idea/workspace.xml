@@ -2,12 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd8f49dd-d5f8-4818-9196-341d99b4a273" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JsonConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modelos/Encuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plantillas/home.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plantillas/new.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/css/offline-theme-slide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/css/style-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/css/table-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/css/to-do.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/css/zabuto_calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/blog-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/checkbox-gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/friends/fr-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/lorde.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/ny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/portfolio/port01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/portfolio/port02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/portfolio/port03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/portfolio/port04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/portfolio/port05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/portfolio/port06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/profile-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/profile-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/radio-gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/ui-danro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/ui-divya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/ui-sam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/ui-sherman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/ui-zac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/weather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/img/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/bootstrap-inputmask/bootstrap-inputmask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/bootstrap-switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/calendar-conf-events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/chart-master/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/chartjs-conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/common-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/easy-pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/form-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/fullcalendar/bootstrap-fullcalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter-conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter/css/jquery.gritter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter/css/jquery.gritter0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter/images/gritter-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter/images/gritter-long.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter/images/gritter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter/images/ie-spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/gritter/js/jquery.gritter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery-easy-pie-chart/jquery.easy-pie-chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery-easy-pie-chart/jquery.easy-pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.backstretch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.dcjqaccordion.2.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.scrollTo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.sparkline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/jquery.ui.touch-punch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/morris-conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/notify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/offline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/sparkline-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/js/zabuto_calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/lineicons/fonts/linecons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/lineicons/fonts/linecons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/lineicons/fonts/linecons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/lineicons/fonts/linecons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/lineicons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/lineicons/lte-ie7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/niceTemplate/lineicons/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +119,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+            <state relative-caret-position="1462">
+              <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,39 +132,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Encuesta.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geolocalizacion.ftl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/new.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2907">
+              <caret line="171" column="70" selection-start-line="171" selection-start-column="70" selection-end-line="171" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Encuesta.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="77" column="56" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
-              <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#875#876#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
-                <element signature="e#1025#1026#0" expanded="true" />
-                <element signature="e#1073#1074#0" expanded="true" />
-                <element signature="e#1113#1114#0" expanded="true" />
-                <element signature="e#1527#1528#0" expanded="true" />
-                <element signature="e#1567#1568#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="901">
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -69,8 +171,8 @@
       <file leaf-file-name="JsonConverter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" selection-start-line="7" selection-end-line="17" />
+            <state relative-caret-position="204">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,6 +189,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blac</find>
+      <find>inici</find>
+      <find>header</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,7 +203,11 @@
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="0" />
+        <entry key="$PROJECT_DIR$" value="6173096565139" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="206595370" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2155783803" />
       </map>
     </option>
     <option name="projectSyncType">
@@ -132,8 +245,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/JsonConverter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/modelos/Encuesta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/plantillas/new.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/plantillas/home.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl" />
       </list>
     </option>
   </component>
@@ -170,32 +286,68 @@
           <expand>
             <path>
               <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea9-JJ" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea9-JJ" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea9-JJ" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea9-JJ" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modelos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="plantillas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea9-JJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea9-JJ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="niceTemplate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,6 +363,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANTONIO\Documents\WorkSpace Web\Tarea9-JJ\src\main\resources" />
+      <recent name="C:\Users\ANTONIO\Documents\WorkSpace Web\Tarea9-JJ\src\main\resources\plantillas" />
       <recent name="C:\Users\ANTONIO\Documents\WorkSpace Web\Tarea9-JJ\src\main\java" />
     </key>
   </component>
@@ -226,7 +380,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Groovy.build">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tarea9-JJ_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -311,9 +470,11 @@
     <list>
       <item itemvalue="Gradle.C:/Users/ANTONIO/Documents/WorkSpace Web/Tarea9-JJ [start]" />
       <item itemvalue="Groovy.build" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Groovy.build" />
         <item itemvalue="Gradle.C:/Users/ANTONIO/Documents/WorkSpace Web/Tarea9-JJ [start]" />
       </list>
@@ -330,15 +491,24 @@
       <option name="presentableId" value="Default" />
       <updated>1543271164340</updated>
       <workItem from="1543271169238" duration="1846000" />
+      <workItem from="1543429986665" duration="11000" />
+      <workItem from="1543509667149" duration="745000" />
+      <workItem from="1543521193595" duration="721000" />
+      <workItem from="1543610166960" duration="2774000" />
+      <workItem from="1543618575330" duration="1210000" />
+      <workItem from="1544126893981" duration="57000" />
+      <workItem from="1544646933290" duration="429000" />
+      <workItem from="1544649617914" duration="400000" />
+      <workItem from="1544650778524" duration="17000" />
+      <workItem from="1545258295687" duration="343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1846000" />
+    <option name="totallyTimeSpent" value="8553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286385" />
@@ -348,27 +518,27 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.16423948" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28951487" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286385" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18309858" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26917058" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49921754" visible="true" weight="0.16100323" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921754" visible="true" weight="0.18608414" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Gradle" order="6" weight="0.32928804" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="SciView" order="11" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Favorites" order="4" sideWeight="0.5007825" side_tool="true" weight="0.26618123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="4" sideWeight="0.5007825" side_tool="true" weight="0.26618123" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3286385" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3286385" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286385" />
@@ -382,16 +552,358 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="71" selection-start-line="234" selection-start-column="71" selection-end-line="234" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/new.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="70" selection-start-line="171" selection-start-column="70" selection-end-line="171" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="71" selection-start-line="234" selection-start-column="71" selection-end-line="234" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/new.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="70" selection-start-line="171" selection-start-column="70" selection-end-line="171" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="71" selection-start-line="234" selection-start-column="71" selection-end-line="234" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/new.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="70" selection-start-line="171" selection-start-column="70" selection-end-line="171" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="71" selection-start-line="234" selection-start-column="71" selection-end-line="234" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="71" selection-start-line="234" selection-start-column="71" selection-end-line="234" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/new.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="70" selection-start-line="171" selection-start-column="70" selection-end-line="171" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/new.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="55" lean-forward="true" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
           <caret line="17" selection-start-line="7" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="7" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -402,10 +914,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/niceTemplate/js/gritter/js/jquery.gritter.js" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        <state relative-caret-position="1462">
+          <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/new.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="70" selection-start-line="171" selection-start-column="70" selection-end-line="171" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -414,36 +944,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/modelos/Encuesta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="77" column="56" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1025#1026#0" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1113#1114#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-            <element signature="e#1567#1568#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="901">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/home.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plantillas/geolocalizacion.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
